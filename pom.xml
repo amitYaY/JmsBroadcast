@@ -7,7 +7,7 @@
     <groupId>org.example</groupId>
     <artifactId>JMSBroadcast</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <description>This Project to Boardcast the Message to Apache ActiveMQ Topic</description>
+    <description>This Project to Broadcast the Message to Apache ActiveMQ Topic</description>
 
 
 </project>
